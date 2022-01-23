@@ -27,4 +27,4 @@
 [![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)]()
 [![](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)]()
 
-Apaixonado por programação desde de quando era criança.❤️🌹
+Apaixonado por programação desde quando era criança.❤️🌹
