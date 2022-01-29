@@ -6,7 +6,7 @@
 
 ![Jhonathas GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJhonathas&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJhonathas&layout=compact)](https://github.com/DevJhonathas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJhonathas&layout=true&theme=tokyonight)](https://github.com/DevJhonathas/github-readme-stats)
 
 ## Tecnologias que uso no meu dia a dia. 😊
 
