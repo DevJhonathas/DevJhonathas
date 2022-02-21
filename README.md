@@ -21,8 +21,11 @@
 
 ### • Setup 🔥🔥😊
 
-[![](https://img.shields.io/badge/AMD-Ryzen_3_3200g-ED1C24?style=for-the-badge&logo=amd&logoColor=white)]()
-[![](https://img.shields.io/badge/RX-570-ED1C24?style=for-the-badge&logo=amd&logoColor=red)]()
+##### Processador: Ryzen 3 3200g
+##### Memória Ram: 16gb
+##### Placa mãe: A320
+##### Placa de video: RX 570
+##### Memoria: 500HD e 250SSD
 
 ### • Para relaxar enquanto estudo/desenvolvo 📈✔️
 [![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)]()
