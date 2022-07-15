@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJhonathas&layout=true&theme=tokyonight)](https://github.com/DevJhonathas/github-readme-stats)
 
-## Tecnologias que uso no meu dia a dia. 😊
+## Tecnologias que uso no dia a dia:
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,py)](https://skills.thijs.gg)
 
@@ -16,7 +16,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![SQL_Serve](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)]()
 
-### • Setup 🔥🔥😊
+### • Setup 🔥🔥
 
 ##### Processador: Ryzen 3 3200g
 ##### Memória Ram: 16gb
