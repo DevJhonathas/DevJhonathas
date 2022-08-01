@@ -20,8 +20,8 @@
 
 ##### Processador: Ryzen 3 3200g
 ##### Memória Ram: 16gb
-##### Placa mãe: A320
-##### Placa de video: RX 570
+##### Placa mãe: A320 ASROCK
+##### Placa de video: RX 570 
 ##### Memoria: 500HD e 250SSD
 
 ### • Para relaxar enquanto estudo/desenvolvo 📈✔️
