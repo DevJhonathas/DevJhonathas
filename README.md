@@ -11,7 +11,7 @@
 
 ## Tecnologias que uso no dia a dia:
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,py,react,php,figma,vscode)](https://github.com/DevJhonathas)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,php,py,c,figma,vscode)](https://github.com/DevJhonathas)
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
