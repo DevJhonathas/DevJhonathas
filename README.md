@@ -27,6 +27,6 @@
 
 ### • Para relaxar enquanto estudo/desenvolvo 📈✔️
 [![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6C9wp2PhQXjJJiO3W8MyEp?si=37740fa25c9b4362)
-[![](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)]
+[](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 
 Apaixonado por programação desde quando era criança.❤️🌹
