@@ -24,6 +24,7 @@
 ##### Placa mãe: A320 ASROCK
 ##### Placa de video: RX 570 
 ##### Memoria: 500HD e 250SSD
+####  Fonte: 600w kcas
 
 ### • Para relaxar enquanto estudo/desenvolvo 📈✔️
 [![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6C9wp2PhQXjJJiO3W8MyEp?si=37740fa25c9b4362)
