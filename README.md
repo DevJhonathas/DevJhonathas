@@ -17,15 +17,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL_Serve](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### • Setup 🔥🔥
-
-##### Processador: Ryzen 3 3200g
-##### Memória Ram: 16gb
-##### Placa mãe: A320 ASROCK
-##### Placa de video: RX 570 
-##### Memoria: 500HD e 250SSD
-####  Fonte: 600w kcas
-
 ### • Para relaxar enquanto estudo/desenvolvo 📈✔️
 [![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6C9wp2PhQXjJJiO3W8MyEp?si=37740fa25c9b4362)
 ![](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
