@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/KillerM18882795)
 [![Instagram](https://img.shields.io/badge/-instagram-red?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/jhonathas__souza/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJhonathas)](https://github.com/DevJhonathas/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJhonathas&show_icons=true&theme=dracula)](https://github.com/DevJhonathas/github-readme-stats)
 
 #### Tecnologias que uso no dia a dia:
 
