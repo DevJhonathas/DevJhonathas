@@ -11,14 +11,11 @@
 
 #### Tecnologias que uso no dia a dia:
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,ts,html,css,react,py,docker,figma,vscode)](https://github.com/DevJhonathas)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vue,vuetify,py,docker,figma,nodejs,java)]([https://skillicons.dev](https://github.com/DevJhonathas))
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL_Serve](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,mongodb)]([https://skillicons.dev](https://github.com/DevJhonathas))
+![SQL_Serve](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
 ![Firebase](https://img.shields.io/badge/Firebase-eba834?style=for-the-badge&logo=firebase&logoColor=#f7ef02)
 
-#### • Para aumento de produtividade 📈✔️
-[![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6C9wp2PhQXjJJiO3W8MyEp?si=37740fa25c9b4362)
 
-##### Apaixonado por programação desde novo❤️🌹
