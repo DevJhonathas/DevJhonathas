@@ -9,7 +9,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJhonathas&show_icons=true&theme=dracula)](https://github.com/DevJhonathas/github-readme-stats)
 
-#### Tecnologias que uso no dia a dia:
+#### Tecnologias que eu uso:
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vue,vuetify,py,docker,figma,nodejs,java)]([https://skillicons.dev](https://github.com/DevJhonathas))
 
