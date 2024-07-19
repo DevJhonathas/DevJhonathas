@@ -11,7 +11,7 @@
 
 #### Tecnologias que eu uso:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vue,vuetify,py,docker,figma,nodejs,java)]([https://skillicons.dev](https://github.com/DevJhonathas))
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vue,vuetify,py,docker,figma,nodejs,java,postman)]([https://skillicons.dev](https://github.com/DevJhonathas))
 
 
 [![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,mongodb)]([https://skillicons.dev](https://github.com/DevJhonathas))
