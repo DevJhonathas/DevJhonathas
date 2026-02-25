@@ -14,6 +14,7 @@ Tecnologias principais: JavaScript, React, Next.js, NestJS e Java.</br>
 Ferramentas: Visual Studio Code, Postman, Docker e Figma.
 
 Além das principais tecnologias que uso, também tenho conhecimento em: TypeScript, HTML, CSS, Vue.js, Vuetify, Python, Docker e Node.js.
+
 Bancos de dados, no quais, já utilizei em trabalhos ou em projetos pessoais: SQL Server, PostgreSQL, MySQL, MongoDB, Firebase.
 </br>
 
