@@ -19,5 +19,5 @@ Bancos de dados, no quais, já utilizei em trabalhos ou em projetos pessoais: SQ
 
 ### Além do código:
 - Eu gosto muito de café e chá</br>
-- Eu estou estudando inglês e francês</br>
+- Atualmente estudo inglês e francês</br>
 - Hobbies: calistenia, videogame e criar sites.
