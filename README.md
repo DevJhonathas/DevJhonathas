@@ -1,20 +1,23 @@
-#### Ei, eu me chamo Jhonathas ✋
-  - 📚Estudante de Analise e desenvolvimento de sistemas pela Universidade de Vila Velha - UVV
-  - 📖Adoro trabalhar em equipe e me aprofundar cada vez mais na programação.
-  
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jhonathas-souza-33891b245/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jhonathas.souza8@gmail.com)
-[![Instagram](https://img.shields.io/badge/-instagram-red?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/jhonathas921/)
+### Ei, tudo bom? 👋🤓
+Eu me chamo Jhonathas, sou desenvolvedor e gosto de criar tudo o que vem à minha cabeça.
+</br></br>
+Atualmente, <b>formado em Análise e Desenvolvimento de Sistemas pela Universidade de Vila Velha - UVV</b>
+</br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJhonathas&show_icons=true&theme=dracula)](https://github.com/DevJhonathas/github-readme-stats)
+Este é o meu [LinkedIn](https://www.linkedin.com/in/jhonathas-souza-33891b245/), onde compartilho atualizações dos meus projetos.
 
-#### Tecnologias que eu uso:
+Se quiser conhecer um pouco do meu dia a dia, aqui está o meu [Instagram](https://www.instagram.com/jhonathas921/).
+</br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vue,vuetify,py,docker,figma,nodejs,java,postman)]([https://skillicons.dev](https://github.com/DevJhonathas))
+### Tecnologias
+Tecnologias principais: JavaScript, React, Next.js, NestJS e Java.</br>
+Ferramentas: Visual Studio Code, Postman, Docker e Figma.
 
+Além das principais tecnologias que uso, também tenho conhecimento em: TypeScript, HTML, CSS, Vue.js, Vuetify, Python, Docker e Node.js.
+Bancos de dados, no quais, já utilizei em trabalhos ou em projetos pessoais: SQL Server, PostgreSQL, MySQL, MongoDB, Firebase.
+</br>
 
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,mongodb)]([https://skillicons.dev](https://github.com/DevJhonathas))
-![SQL_Serve](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
-![Firebase](https://img.shields.io/badge/Firebase-eba834?style=for-the-badge&logo=firebase&logoColor=#f7ef02)
-
-
+### Além do código:
+- Eu gosto muito de café e chá</br>
+- Eu estou estudando inglês e francês</br>
+- Hobbies: calistenia, videogame e criar sites.
