@@ -4,7 +4,7 @@ Eu me chamo Jhonathas, sou desenvolvedor e gosto de criar tudo o que vem à minh
 Atualmente, <b>formado em Análise e Desenvolvimento de Sistemas pela Universidade de Vila Velha - UVV</b>
 </br>
 
-Este é o meu [LinkedIn](https://www.linkedin.com/in/jhonathas-souza-33891b245/), onde compartilho atualizações dos meus projetos.
+Este é o meu [LinkedIn](https://www.linkedin.com/in/jhonathas-souza-33891b245/), onde compartilho atualizações dos meus projetos. E este é o meu [Portfolio](https://portfolio2024-e4t3.vercel.app/), onde posto meus projetos.
 
 Se quiser conhecer um pouco do meu dia a dia, aqui está o meu [Instagram](https://www.instagram.com/jhonathas921/).
 </br>
