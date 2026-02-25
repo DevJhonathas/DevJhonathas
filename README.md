@@ -1,4 +1,6 @@
 ### Ei, tudo bom? 👋🤓
+🇧🇷 Português | 🇺🇸 [English](README.en.md) | 🇫🇷 [French](README.fr.md)
+
 Eu me chamo Jhonathas, sou desenvolvedor e gosto de criar tudo o que vem à minha cabeça.
 </br></br>
 Atualmente, <b>formado em Análise e Desenvolvimento de Sistemas pela Universidade de Vila Velha - UVV</b>
